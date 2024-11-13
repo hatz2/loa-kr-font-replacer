@@ -6,7 +6,7 @@ The program expects two arguments, the original font path and the KR font path. 
 
 1. Create a direct link of `loa-kr-font-replacer.exe`.
 2. Right click the direct link > Properties
-3. In the `destiny` field add both paths as arguments.
+3. In the `target` field add both paths as arguments.
 
 It should look something like this:
 
